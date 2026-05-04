@@ -26,7 +26,7 @@
  * CHANGE THE AUTH KEY BELOW TO YOUR OWN SECRET!
  */
 
-const AUTH_KEY = "CHANGE_ME_TO_A_STRONG_SECRET";
+const AUTH_KEY = "5af071e8-e0d8-4b5e-8c42-8ef28ab37af4";
 
 // Active-probing defense. When false (production default), bad AUTH_KEY
 // requests get a decoy HTML page that looks like a placeholder Apps
